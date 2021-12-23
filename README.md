@@ -1,2 +1,2 @@
-# OLA_Auto_Reset
-Automatic Reset of Sparkfun OLA with Raspberry Pi
+# exhaustProject
+Design, optimization and test a truck exhaust system in ANSYS
